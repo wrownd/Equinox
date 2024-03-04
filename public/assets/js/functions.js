@@ -72,7 +72,7 @@ function setTheme(selectedTheme) {
 
         // icon color
         const spinningChangeIcon = document.getElementById('spinning');
-        spinningChangeIcon.src = 'https://media.discordapp.net/attachments/1165659118581854371/1208260548861632582/eqblue.png?ex=65e2a353&is=65d02e53&hm=87c08320ac419c6849ebd9202c677155008b18b067fb6304bc6814d38b75dc4a&=&format=webp&quality=lossless';
+        spinningChangeIcon.src = 'https://raw.githubusercontent.com/wrndxyz/cdn/main/assets/eqblue.png';
 
 
         // subtitle
@@ -91,7 +91,7 @@ function setTheme(selectedTheme) {
 
         // icon color
         const spinningChangeIcon = document.getElementById('spinning');
-        spinningChangeIcon.src = 'https://media.discordapp.net/attachments/1165659118581854371/1208262742864302121/nc_1.png?ex=65e2a55e&is=65d0305e&hm=90f11483dc64c67b5e542bc17094c5804cbf6f0e21b4f0110efdfa552121e457&=&format=webp&quality=lossless';
+        spinningChangeIcon.src = 'https://raw.githubusercontent.com/wrndxyz/cdn/main/assets/eqblack.png';
 
 
         // subtitle
@@ -106,7 +106,7 @@ function setTheme(selectedTheme) {
 
         // icon color
         const spinningChangeIcon = document.getElementById('spinning');
-        spinningChangeIcon.src = 'https://media.discordapp.net/attachments/1165659118581854371/1208262742864302121/nc_1.png?ex=65e2a55e&is=65d0305e&hm=90f11483dc64c67b5e542bc17094c5804cbf6f0e21b4f0110efdfa552121e457&=&format=webp&quality=lossless';
+        spinningChangeIcon.src = 'https://raw.githubusercontent.com/wrndxyz/cdn/main/assets/nc_1.png';
 
         // topbar
         const topbar = document.querySelector('.topbar');
