@@ -100,7 +100,7 @@ function setTheme(selectedTheme) {
 
     } else if (selectedTheme === 'default') {
         body.classList.add('background-image');
-        body.style.backgroundImage = 'url("https://cdn.wrnd.lat/assets/bg.png")';
+        body.style.backgroundImage = 'url("https://raw.githubusercontent.com/wrndxyz/cdn/main/assets/bg.png")';
         body.style.backgroundSize = 'cover';
         body.style.backgroundPosition = 'center';
 
